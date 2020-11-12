@@ -11,3 +11,6 @@ gcc cmpHTTP_sendTCP.c -o out
 chmod +x out
 
 sudo ./out
+
+# Linux C Socket 编程
+https://www.cnblogs.com/PikapBai/p/13964866.html
